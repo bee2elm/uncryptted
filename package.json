@@ -1,1 +1,29 @@
-
+{
+  "name": "uncryptted",
+  "version": "1.0.0",
+  "description": "Decentralized lending platform using NFTs as collateral",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bee2elm/uncryptted.git"
+  },
+  "keywords": [
+    "decentralize",
+    "finance",
+    "nft",
+    "leanding",
+    "collateral"
+  ],
+  "author": "Seyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bee2elm/uncryptted/issues"
+  },
+  "homepage": "https://github.com/bee2elm/uncryptted#readme",
+  "dependencies": {
+    "@stake777/my-package": "github:apjproduction/stake777"
+  }
+}
